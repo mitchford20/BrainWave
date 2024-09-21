@@ -1,8 +1,14 @@
-# React + Vite
+BrainWave - Group Studying Made Simple
+BrainWave is a platform designed to help students—especially freshmen, transfer students, and those struggling to find study partners—connect with others for group studying. 
+By simplifying the process of finding like-minded peers, BrainWave makes it easy to form reliable study groups that fit your schedule, academic goals, and personal preferences.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+-  Match with students who share similar schedules, live nearby, and take the same classes.
+-  Filter matches by study preferences, personality type, and more.
+-  Integrated messaging for document sharing, scheduling, and live chats.
+-  Potential future feature: Open platform for all users to discuss study topics and help each other.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack
+Frontend: ReactJS
+Backend: ExpressJS, NodeJS
+Database: MongoDB
