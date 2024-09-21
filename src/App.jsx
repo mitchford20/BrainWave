@@ -6,6 +6,7 @@ function App() {
     <div>
       This is my new Project
       <Navbar/>
+      This is a navbar
     </div>
   )
 }
