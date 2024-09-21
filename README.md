@@ -13,3 +13,4 @@ Frontend: ReactJS
 Backend: ExpressJS, NodeJS
 Database: MongoDB
 Rayan
+Mitch
